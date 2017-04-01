@@ -49,8 +49,10 @@
     left: 0;
 
     width: 100%;
+    margin-top: 16px;
 
     text-align: center;
+    letter-spacing: 1px;
 }
 #logo4,
 #logoIcos

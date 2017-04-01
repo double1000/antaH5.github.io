@@ -10,11 +10,16 @@ span
 body,
 html
 {
+    font: 14px/1.5 'Helvetica Neue',Helvetica,Arial,'Microsoft Yahei','Hiragino Sans GB','Heiti SC','WenQuanYi Micro Hei',sans-serif;
+
     position: relative;
 
     overflow: hidden;
 
     height: 100%;
+
+    -webkit-transform: translate3d(0,0,0);
+            transform: translate3d(0,0,0);
 
     background: #e0e0e0;
 
